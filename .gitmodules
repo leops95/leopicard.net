@@ -1,0 +1,3 @@
+[submodule "leopicard.net"]
+	path = leopicard.net
+	url = https://github.com/leops95/leopicard.net.git
