@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Léo Picard</title>
+    <link>leopicard.net/project/</link>
+      <atom:link href="leopicard.net/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/leopicard.net/media/icon_hu07950233b46d2a3753aae8938f6682f1_20435_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>leopicard.net/project/</link>
+    </image>
+    
+    <item>
+      <title>U.S. State of the State transcripts</title>
+      <link>leopicard.net/project/sots/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>leopicard.net/project/sots/</guid>
+      <description>&lt;p&gt;Usually held at the beginning of each year, U.S. governors give a public speech where they talk about the situation of their state. Frequency of the speech varies from state to state, as it is sometimes held every two year, or ‘from time to time’. They can be supported by an inauguration speech after an election year, or a state of the budget speech. This database contains 1200 transcripts, for all states, between 1995 and 2020.&lt;/p&gt;
+&lt;p&gt;Dataset, metadata and raw files can be found on my &lt;a href=&#34;https://www.github.com/leops95/sots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some statistics will follow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributions to the United Nations regular budget</title>
+      <link>leopicard.net/project/unbudget/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>leopicard.net/project/unbudget/</guid>
+      <description>&lt;p&gt;I made a dashboard for visualizing the amount and date of payment from member states to the United Nations regular budget.&lt;/p&gt;
+&lt;p&gt;You can access it here: &lt;a href=&#34;https://leops95.shinyapps.io/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://leops95.shinyapps.io/unbudget&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dataset and sources can be found on my &lt;a href=&#34;https://www.github.com/leops95/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
