@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Léo Picard</title>
-    <link>leopicard.net/</link>
-      <atom:link href="leopicard.net/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://leopicard.net/</link>
+      <atom:link href="https://leopicard.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Léo Picard</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/leopicard.net/media/icon_hu07950233b46d2a3753aae8938f6682f1_20435_512x512_fill_lanczos_center_3.png</url>
+      <url>https://leopicard.net/media/icon_hu07950233b46d2a3753aae8938f6682f1_20435_512x512_fill_lanczos_center_3.png</url>
       <title>Léo Picard</title>
-      <link>leopicard.net/</link>
+      <link>https://leopicard.net/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>leopicard.net/talk/example-talk/</link>
+      <link>https://leopicard.net/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>leopicard.net/talk/example-talk/</guid>
+      <guid>https://leopicard.net/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>leopicard.net/post/getting-started/</link>
+      <link>https://leopicard.net/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>leopicard.net/post/getting-started/</guid>
+      <guid>https://leopicard.net/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>Slides</title>
-      <link>leopicard.net/slides/example/</link>
+      <link>https://leopicard.net/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>leopicard.net/slides/example/</guid>
+      <guid>https://leopicard.net/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -240,9 +240,9 @@ Three
     
     <item>
       <title>U.S. State of the State transcripts</title>
-      <link>leopicard.net/project/sots/</link>
+      <link>https://leopicard.net/project/sots/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>leopicard.net/project/sots/</guid>
+      <guid>https://leopicard.net/project/sots/</guid>
       <description>&lt;p&gt;Usually held at the beginning of each year, U.S. governors give a public speech where they talk about the situation of their state. Frequency of the speech varies from state to state, as it is sometimes held every two year, or ‘from time to time’. They can be supported by an inauguration speech after an election year, or a state of the budget speech. This database contains 1200 transcripts, for all states, between 1995 and 2020.&lt;/p&gt;
 &lt;p&gt;Dataset, metadata and raw files can be found on my &lt;a href=&#34;https://www.github.com/leops95/sots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Some statistics will follow.&lt;/p&gt;
@@ -251,9 +251,9 @@ Three
     
     <item>
       <title>Contributions to the United Nations regular budget</title>
-      <link>leopicard.net/project/unbudget/</link>
+      <link>https://leopicard.net/project/unbudget/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>leopicard.net/project/unbudget/</guid>
+      <guid>https://leopicard.net/project/unbudget/</guid>
       <description>&lt;p&gt;I made a dashboard for visualizing the amount and date of payment from member states to the United Nations regular budget.&lt;/p&gt;
 &lt;p&gt;You can access it here: &lt;a href=&#34;https://leops95.shinyapps.io/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://leops95.shinyapps.io/unbudget&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dataset and sources can be found on my &lt;a href=&#34;https://www.github.com/leops95/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
@@ -262,9 +262,9 @@ Three
     
     <item>
       <title>An example conference paper</title>
-      <link>leopicard.net/publication/example/</link>
+      <link>https://leopicard.net/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>leopicard.net/publication/example/</guid>
+      <guid>https://leopicard.net/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -281,9 +281,9 @@ Three
     
     <item>
       <title></title>
-      <link>leopicard.net/admin/config.yml</link>
+      <link>https://leopicard.net/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>leopicard.net/admin/config.yml</guid>
+      <guid>https://leopicard.net/admin/config.yml</guid>
       <description></description>
     </item>
     
