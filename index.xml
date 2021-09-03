@@ -5,7 +5,7 @@
     <link>https://leopicard.net/</link>
       <atom:link href="https://leopicard.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Léo Picard</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Léo Picard</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leopicard.net/media/icon_hu07950233b46d2a3753aae8938f6682f1_20435_512x512_fill_lanczos_center_3.png</url>
       <title>Léo Picard</title>
@@ -235,28 +235,6 @@ Three
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>U.S. State of the State transcripts</title>
-      <link>https://leopicard.net/project/sots/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://leopicard.net/project/sots/</guid>
-      <description>&lt;p&gt;Usually held at the beginning of each year, U.S. governors give a public speech where they talk about the situation of their state. Frequency of the speech varies from state to state, as it is sometimes held every two year, or ‘from time to time’. They can be supported by an inauguration speech after an election year, or a state of the budget speech. This database contains 1200 transcripts, for all states, between 1995 and 2020.&lt;/p&gt;
-&lt;p&gt;Dataset, metadata and raw files can be found on my &lt;a href=&#34;https://www.github.com/leops95/sots&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Some statistics will follow.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contributions to the United Nations regular budget</title>
-      <link>https://leopicard.net/project/unbudget/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://leopicard.net/project/unbudget/</guid>
-      <description>&lt;p&gt;I made a dashboard for visualizing the amount and date of payment from member states to the United Nations regular budget.&lt;/p&gt;
-&lt;p&gt;You can access it here: &lt;a href=&#34;https://leops95.shinyapps.io/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://leops95.shinyapps.io/unbudget&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dataset and sources can be found on my &lt;a href=&#34;https://www.github.com/leops95/unbudget&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
