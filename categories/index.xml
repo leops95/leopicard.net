@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Léo Picard</title>
-    <link>https://leopicard.net/categories/</link>
-      <atom:link href="https://leopicard.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/categories/</link>
+      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Léo Picard</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leopicard.net/media/icon_hu07950233b46d2a3753aae8938f6682f1_20435_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu07950233b46d2a3753aae8938f6682f1_20435_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://leopicard.net/categories/</link>
+      <link>http://localhost:1313/categories/</link>
     </image>
     
   </channel>
